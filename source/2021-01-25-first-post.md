@@ -2,9 +2,11 @@ title: 6歳にウケるPython
 date: 2021-01-25
 tags: ["Physon", "初投稿"]
 
+はじめに言葉ありき
+
 ```physon
 
-print('こんにちは、世界')
+print('Hello Python!')
 
 ```
 
