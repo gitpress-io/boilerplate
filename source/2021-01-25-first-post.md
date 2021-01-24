@@ -2,6 +2,12 @@ title: 6歳にウケるPython
 date: 2021-01-25
 tags: ["Physon", "初投稿"]
 
+```physon
+
+print('こんにちは、世界')
+
+```
+
 6歳にウケるPythonのコードを紹介します
 
 ```physon
