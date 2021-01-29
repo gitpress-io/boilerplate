@@ -24,3 +24,19 @@ else:
 ```
 
 お子さんの好きな数字を聞いて、書き換えてあげましょう
+
+
+※ハイライターのrunボタンが出ないため、他言語でテスト
+
+```javascript
+
+console.log('Hello Javascript!');
+
+```
+
+syntax highlighting:
+​```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+​```
