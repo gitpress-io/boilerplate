@@ -34,9 +34,8 @@ console.log('Hello Javascript!');
 
 ```
 
-syntax highlighting:
-​```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-​```
+```ruby
+
+puts "Hi. I am Ruby."
+
+```
